@@ -1,0 +1,20 @@
+{
+  "name": "소소한 일상 - 우리 가족 캘린더",
+  "short_name": "소소한 일상",
+  "description": "6인 가족 실시간 일정·날씨·학원·자료함 공유 캘린더",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./icon_v1.0.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
